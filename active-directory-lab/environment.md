@@ -23,3 +23,7 @@ security monitoring, log analysis, and incident investigation.
 - Detect abnormal login behaviour
 - Track privilege changes
 - Establish a baseline of normal activity
+  
+## Architecture Diagram
+![Active Directory Lab Architecture](diagram.drawio.png)
+
