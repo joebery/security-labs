@@ -20,8 +20,7 @@
 - Role: Domain Controller
 - Directory Services Restore Mode (DSRM) password configured
 
-- ## Domain Users
-
+## Domain Users
 - standard-user1
   - Role: Standard domain user
   - Purpose: Simulate normal employee activity
