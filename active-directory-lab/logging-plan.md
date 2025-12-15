@@ -8,7 +8,7 @@ investigation, and incident response.
 
 ## Log Sources
 
-### Domain Controller (DC01)
+### Domain Controller (DC001)
 - Windows Security Event Logs
 - Account login events
 - Account management events
