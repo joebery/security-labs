@@ -20,6 +20,17 @@
 - Role: Domain Controller
 - Directory Services Restore Mode (DSRM) password configured
 
+- ## Domain Users
+
+- standard-user1
+  - Role: Standard domain user
+  - Purpose: Simulate normal employee activity
+
+- admin-user
+  - Role: Domain Administrator
+  - Purpose: Simulate privileged administrative actions
+
+
 ## Notes
 - DC001 acts as the central authentication and identity authority
 - Authentication and directory events will be key security log sources
